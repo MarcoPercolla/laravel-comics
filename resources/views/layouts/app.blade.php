@@ -14,8 +14,9 @@
     @include('partials.header')
     @include('partials.jumbo')
     @include('partials.cardDisplay')
+    @include('partials.prodotti')
     @include('partials.footer')
-    @yield("content")
+
 
 
 
