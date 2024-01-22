@@ -11,8 +11,8 @@
 
 <body>
 
-    <h1>hello</h1>
-
+    @include('partials.header')
+    @yield("content")
 
 
 
