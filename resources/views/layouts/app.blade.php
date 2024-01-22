@@ -13,6 +13,7 @@
 
     @include('partials.header')
     @include('partials.jumbo')
+    @include('partials.cardDisplay')
     @include('partials.footer')
     @yield("content")
 

@@ -26,7 +26,7 @@
     }
 
     .imgContainer {
-        width: 40%;
+        width: 25%;
     }
 
     .linkChain {
